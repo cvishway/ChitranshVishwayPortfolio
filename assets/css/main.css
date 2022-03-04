@@ -1659,7 +1659,10 @@ input, select, textarea {
 				width: auto;
 			}
 			.image:hover {
-				border: 5px solid #777;
+				filter:hue-rotate(100%);
+				opacity: 0.60;
+				transform: scale(0.9);
+			
 			  }
 			  
 
