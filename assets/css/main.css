@@ -1772,7 +1772,7 @@ input, select, textarea {
 			color: #fff !important;
 		}
 
-		input[type="button"]:active,
+		input[type="button"]:active,		
 		input[type="submit"]:active,
 		input[type="reset"]:active,
 		button:active,
